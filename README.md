@@ -1,5 +1,4 @@
 # IoT Data Analysis Assignment
-IoT for a Parking System
 
 **Introduction**
 
